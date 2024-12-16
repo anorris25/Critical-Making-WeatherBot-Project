@@ -1,5 +1,5 @@
-*WeatherBot Project*
-**This repository holds all files involved in the Motorized WeatherBot project for Critical Making, starting Fall 2024.**
+# WeatherBot Project
+## This repository holds all files involved in the Motorized WeatherBot project for Critical Making, starting Fall 2024.
 
 Members: Anne Norris (amn124@pitt.edu)
 
